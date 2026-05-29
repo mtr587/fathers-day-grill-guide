@@ -150,7 +150,7 @@ footer a{color:#aaa;text-decoration:underline}
 <div class="container">
 <div class="hero-badge">\U0001f525 Father\u2019s Day 2025 Gift Guide</div>
 <h1>The Gifts He Deserves,<br>The Gear He\u2019ll Love</h1>
-<div class="subtitle">\u2014 Because Dad does more for this family than anyone will ever know.</div>
+<div class="subtitle">\u2014 Because being a dad is hard work. He deserves gear that actually helps.</div>
 <p>Skip the tie. Skip the mug. Give him something that says <em>we see everything you do.</em> Tools, gear, and backyard essentials that make his life easier, his weekends better, and the people he loves a little closer.</p>
 <div class="hero-stats">
 <span>\U0001f3af 65% of dads want quality family time</span>
@@ -162,11 +162,11 @@ footer a{color:#aaa;text-decoration:underline}
 
 <section class="tribute">
 <div class="container">
-<h2>To the man who <em>gives everything</em> for his family</h2>
-<p>He\u2019s the one who leaves before the sun comes up and comes home when everyone else is already winding down. The one who says yes to overtime, who fixes what\u2019s broken on the weekend, who never complains because providing for the people he loves is not a burden \u2014 it\u2019s who he is.</p>
-<p>For every early morning and late night, every call he takes and every corner he cuts so his family doesn\u2019t have to. This Father\u2019s Day, he doesn\u2019t need another tie or another mug. He needs something that says <em>we see you. we appreciate you. you are everything.</em></p>
-<p>Every gift here is picked with that in mind. Not just things \u2014 but the tools and comfort he deserves after a lifetime of giving. Because no one works harder for this family than Dad. And this year, it\u2019s his turn.</p>
-<div class="tagline">Thank you, Dad. You\u2019ve got this.</div>
+<h2>To the man who <em>holds it all together</em></h2>
+<p>Let\u2019s be honest \u2014 being a dad is a lot of work. The early mornings, the long hours, the weekends spent fixing things around the house instead of resting. He doesn\u2019t complain about it. He just gets it done, because that\u2019s what dads do.</p>
+<p>This Father\u2019s Day, skip the fluff. No “World\u2019s Best Dad\u201d mugs, no ties he\u2019ll never wear. Give him something he\u2019ll actually use and enjoy. Something that makes his life a little easier or his weekends a little more fun. He\u2019s earned it.</p>
+<p>The gifts here are picked for real dads with real lives. Tools that work. Gear that lasts. Things that make the backyard, the grill, and the downtime with family just a little bit better. Because after everything he does, he deserves something that actually fits.</p>
+<div class="tagline">Happy Father\u2019s Day. You deserve a good one.</div>
 </div>
 </section>
 
